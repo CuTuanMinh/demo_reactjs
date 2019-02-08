@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.hello{
+	padding: 10px;
+	color: white;
+	background-color: red;
+}
+.ToggleButton{
+	margin: 20px;
+	padding: 10px;
+	background-color: green;
+	color: white;
+	width: 180px;
+}
+.red{
+  background-color: red;
+  color: white;
+}
+.blue{
+  background-color: blue;
+  color: white;
+}
